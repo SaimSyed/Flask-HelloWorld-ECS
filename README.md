@@ -20,3 +20,4 @@ Create basics task defination, create service to run tasks (configue LB and AS a
 
 Search in web browser the Public IP of container *publicip:5000*
 you should get your environment message
+![OpsLyft](https://user-images.githubusercontent.com/98846014/159041755-d21cba54-8d1f-4bff-9acb-629f8385a14f.png)
