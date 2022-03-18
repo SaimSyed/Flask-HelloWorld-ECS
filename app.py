@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Flask inside Docker will be deployed over Fargate!!"
+    return "Hello from Flask & Docker"
 
 
 if __name__ == "__main__":
